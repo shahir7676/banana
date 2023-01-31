@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author BCC
+ *
+ */
+module SampleFrameWork {
+}
